@@ -1,0 +1,1 @@
+SELECT id,name,parent_category_Id FROM categories;
